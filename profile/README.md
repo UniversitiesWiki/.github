@@ -1,5 +1,5 @@
  <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=700&height=70&lines=University+Wiki+Site+Org." alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=700&height=70&lines=Universities+Wiki+Site+Org." alt="Typing SVG" />
 </p>
 
 Welcome to UniversitiesWiki — a growing vision to help school students discover their future, understand the opportunities around them, and find the right path toward higher education with clarity and confidence.
